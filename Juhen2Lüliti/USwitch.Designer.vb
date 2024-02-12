@@ -31,9 +31,9 @@ Partial Class USwitch
         '
         'pbSwitch
         '
-        Me.pbSwitch.Location = New System.Drawing.Point(380, 330)
+        Me.pbSwitch.Location = New System.Drawing.Point(364, 385)
         Me.pbSwitch.Name = "pbSwitch"
-        Me.pbSwitch.Size = New System.Drawing.Size(209, 48)
+        Me.pbSwitch.Size = New System.Drawing.Size(200, 40)
         Me.pbSwitch.TabIndex = 0
         Me.pbSwitch.TabStop = False
         '

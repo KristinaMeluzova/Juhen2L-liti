@@ -11,6 +11,8 @@
                 Me.selectSwitch(0)
             Case "On"
                 Me.selectSwitch(1)
+            Case Else
+                Me.selectSwitch(0)
         End Select
 
     End Sub
