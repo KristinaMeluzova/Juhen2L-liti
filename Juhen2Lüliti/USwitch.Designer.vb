@@ -41,8 +41,8 @@ Partial Class USwitch
         '
         Me.imLoend.ImageStream = CType(resources.GetObject("imLoend.ImageStream"), System.Windows.Forms.ImageListStreamer)
         Me.imLoend.TransparentColor = System.Drawing.Color.Transparent
-        Me.imLoend.Images.SetKeyName(0, "switch off.jpg")
-        Me.imLoend.Images.SetKeyName(1, "switch on.jpg")
+        Me.imLoend.Images.SetKeyName(0, "switch off.png")
+        Me.imLoend.Images.SetKeyName(1, "switch on.png")
         '
         'USwitch
         '
