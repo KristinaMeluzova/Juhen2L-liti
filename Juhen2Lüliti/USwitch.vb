@@ -7,9 +7,9 @@
     ' Avalik liidesmeetod
     Public Sub setSwitch(ByVal strSwitch As String)
         Select Case strSwitch
-            Case "Off"
+            Case False
                 Me.selectSwitch(0)
-            Case "On"
+            Case True
                 Me.selectSwitch(1)
             Case Else
                 Me.selectSwitch(0)
