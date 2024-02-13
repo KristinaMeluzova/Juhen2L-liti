@@ -17,9 +17,6 @@ Public Class USwitch
         End Select
     End Sub
 
-    Public Sub pbSwitch_Load(sender As Object, e As EventArgs) Handles pbSwitch.LoadCompleted
-        setSwitch("switch off")
-    End Sub
 End Class
 
 
